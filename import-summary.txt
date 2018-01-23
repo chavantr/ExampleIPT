@@ -1,0 +1,91 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gitignore
+* indoor-position-tracker-master\
+* indoor-position-tracker-master\.gitignore
+* indoor-position-tracker-master\.settings\
+* indoor-position-tracker-master\.settings\org.eclipse.jdt.core.prefs
+* indoor-position-tracker-master\AndroidManifest.xml
+* indoor-position-tracker-master\libs\
+* indoor-position-tracker-master\libs\android-support-v4.jar
+* indoor-position-tracker-master\proguard-project.txt
+* indoor-position-tracker-master\readme.txt
+* indoor-position-tracker-master\res\
+* indoor-position-tracker-master\res\drawable-hdpi\
+* indoor-position-tracker-master\res\drawable-hdpi\ic_action_search.png
+* indoor-position-tracker-master\res\drawable-hdpi\ic_launcher.png
+* indoor-position-tracker-master\res\drawable-mdpi\
+* indoor-position-tracker-master\res\drawable-mdpi\ic_action_search.png
+* indoor-position-tracker-master\res\drawable-mdpi\ic_launcher.png
+* indoor-position-tracker-master\res\drawable-xhdpi\
+* indoor-position-tracker-master\res\drawable-xhdpi\ic_action_search.png
+* indoor-position-tracker-master\res\drawable-xhdpi\ic_launcher.png
+* indoor-position-tracker-master\res\drawable-xhdpi\kerros.gif
+* indoor-position-tracker-master\res\drawable-xhdpi\kolmas.gif
+* indoor-position-tracker-master\res\drawable-xhdpi\neljas.gif
+* indoor-position-tracker-master\res\drawable-xhdpi\pohja.gif
+* indoor-position-tracker-master\res\drawable-xhdpi\toka.gif
+* indoor-position-tracker-master\res\layout\
+* indoor-position-tracker-master\res\layout\activity_main.xml
+* indoor-position-tracker-master\res\menu\
+* indoor-position-tracker-master\res\menu\activity_main.xml
+* indoor-position-tracker-master\res\values\
+* indoor-position-tracker-master\res\values\strings.xml
+* indoor-position-tracker-master\res\values\styles.xml
+* indoor-position-tracker-master\src\
+* indoor-position-tracker-master\src\com\
+* indoor-position-tracker-master\src\com\inte\
+* indoor-position-tracker-master\src\com\inte\indoorpositiontracker\
+* indoor-position-tracker-master\src\com\inte\indoorpositiontracker\Fingerprint.java
+* indoor-position-tracker-master\src\com\inte\indoorpositiontracker\FingerprintDatabaseHandler.java
+* indoor-position-tracker-master\src\com\inte\indoorpositiontracker\IndoorPositionTracker.java
+* indoor-position-tracker-master\src\com\inte\indoorpositiontracker\MapActivity.java
+* indoor-position-tracker-master\src\com\inte\indoorpositiontracker\MapEditActivity.java
+* indoor-position-tracker-master\src\com\inte\indoorpositiontracker\MapView.java
+* indoor-position-tracker-master\src\com\inte\indoorpositiontracker\MapViewActivity.java
+* indoor-position-tracker-master\src\com\inte\indoorpositiontracker\WifiPointView.java
+* proguard-project.txt
+* readme.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:26.0.0-alpha1
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

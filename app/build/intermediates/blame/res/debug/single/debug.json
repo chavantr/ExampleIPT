@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\tchavan\\Downloads\\indoor-position-tracker-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_pohja.gif.flat",
+        "source": "C:\\Users\\tchavan\\Downloads\\indoor-position-tracker-master1\\app\\src\\main\\res\\drawable-xhdpi\\pohja.gif"
+    },
+    {
+        "merged": "C:\\Users\\tchavan\\Downloads\\indoor-position-tracker-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_search.png.flat",
+        "source": "C:\\Users\\tchavan\\Downloads\\indoor-position-tracker-master1\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\tchavan\\Downloads\\indoor-position-tracker-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\tchavan\\Downloads\\indoor-position-tracker-master1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\tchavan\\Downloads\\indoor-position-tracker-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_kolmas.gif.flat",
+        "source": "C:\\Users\\tchavan\\Downloads\\indoor-position-tracker-master1\\app\\src\\main\\res\\drawable-xhdpi\\kolmas.gif"
+    },
+    {
+        "merged": "C:\\Users\\tchavan\\Downloads\\indoor-position-tracker-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_search.png.flat",
+        "source": "C:\\Users\\tchavan\\Downloads\\indoor-position-tracker-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\tchavan\\Downloads\\indoor-position-tracker-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\tchavan\\Downloads\\indoor-position-tracker-master1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\tchavan\\Downloads\\indoor-position-tracker-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main.xml.flat",
+        "source": "C:\\Users\\tchavan\\Downloads\\indoor-position-tracker-master1\\app\\src\\main\\res\\menu\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\tchavan\\Downloads\\indoor-position-tracker-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_toka.gif.flat",
+        "source": "C:\\Users\\tchavan\\Downloads\\indoor-position-tracker-master1\\app\\src\\main\\res\\drawable-xhdpi\\toka.gif"
+    },
+    {
+        "merged": "C:\\Users\\tchavan\\Downloads\\indoor-position-tracker-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_kerros.gif.flat",
+        "source": "C:\\Users\\tchavan\\Downloads\\indoor-position-tracker-master1\\app\\src\\main\\res\\drawable-xhdpi\\kerros.gif"
+    },
+    {
+        "merged": "C:\\Users\\tchavan\\Downloads\\indoor-position-tracker-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_search.png.flat",
+        "source": "C:\\Users\\tchavan\\Downloads\\indoor-position-tracker-master1\\app\\src\\main\\res\\drawable-mdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\tchavan\\Downloads\\indoor-position-tracker-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\tchavan\\Downloads\\indoor-position-tracker-master1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\tchavan\\Downloads\\indoor-position-tracker-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_neljas.gif.flat",
+        "source": "C:\\Users\\tchavan\\Downloads\\indoor-position-tracker-master1\\app\\src\\main\\res\\drawable-xhdpi\\neljas.gif"
+    },
+    {
+        "merged": "C:\\Users\\tchavan\\Downloads\\indoor-position-tracker-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\tchavan\\Downloads\\indoor-position-tracker-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]
